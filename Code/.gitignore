@@ -1,0 +1,56 @@
+# === Fichiers et dossiers générés par Maven ===
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# === Logs et fichiers temporaires ===
+*.log
+hs_err_pid*.log
+
+# === Fichiers système (Windows, macOS, Linux) ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# === Eclipse/STS ===
+.project
+.classpath
+.settings/
+bin/
+
+# === VS Code ===
+.vscode/
+
+# === Java et compilation ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === Test coverage et rapports ===
+jacoco.exec
+*.ec
+*.coverage
+*.lcov
+*.clover
+
+# === Fichiers sensibles (ajoute ici si besoin) ===
+.env
+secrets/
+credentials.json
